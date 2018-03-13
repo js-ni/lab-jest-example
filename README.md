@@ -22,7 +22,7 @@ Estas son las instrucciones para poder correr el proyecto en tu local.
 Clonar o crear tu propia cuenta del repositorio
 
 ```
-https://github.com/js-ni/lab-jest-example
+https://github.com/js-ni/lab-jest-example.git
 ```
 
 Una vez clonado el proyecto, ya pueedes instalar las dependencias, ejecutando el cli de preferencia el comando
