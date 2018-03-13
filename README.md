@@ -22,7 +22,7 @@ Estas son las instrucciones para poder correr el proyecto en tu local.
 Clonar o crear tu propia cuenta del repositorio
 
 ```
-https://github.com/clenondavis/lab-jest-example
+https://github.com/js-ni/lab-jest-example
 ```
 
 Una vez clonado el proyecto, ya pueedes instalar las dependencias, ejecutando el cli de preferencia el comando
@@ -135,11 +135,11 @@ Se usa GIT como control de versiones. Para acceder a la última version, ir a la
 
 * **Carlos Lenon** - *Love what i do* - [clenondavis](https://github.com/clenondavis)
 
-Ver el listado de los [colaboradores](https://github.com/clenondavis/lab-jest-example/graphs/contributors) de este lab-jest-example.
+Ver el listado de los [colaboradores](https://github.com/js-ni/lab-jest-example/graphs/contributors) de este lab-jest-example.
 
 ## Licencia
 
-Este proyecto esta bajo la licencia MIT - ver detalle de esta [licencia](https://github.com/clenondavis/lab-jest-example/blob/master/LICENSE)
+Este proyecto esta bajo la licencia MIT - ver detalle de esta [licencia](https://github.com/js-ni/lab-jest-example/blob/master/LICENSE)
 
 ## Inspiración
 
